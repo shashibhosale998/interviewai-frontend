@@ -108,7 +108,7 @@ function HomePage() {
                         {/* Left Side */}
                         <div className="flex-1">
                             <h1 className="text-5xl md:text-6xl font-bold leading-tight mb-6 text-gray-900">
-                                Voted #1
+                                
                                 <span className="text-purple-600"> AI-Powered</span>
                                 <br />Interview Coach
                             </h1>
